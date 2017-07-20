@@ -1,0 +1,16 @@
+div {
+	width:200px;
+	height:200px;
+}
+.white {
+	background:#fff;
+	border:1px solid #cdcdcd;
+	position:absolute;
+	top:110px; left:100px;
+}
+.black {
+	outline:1px solid #cdcdcd;
+	background:#000;
+	border:1px solid #fff;
+	position:relative;
+}
